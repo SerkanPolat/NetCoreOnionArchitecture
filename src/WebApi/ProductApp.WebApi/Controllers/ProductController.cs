@@ -22,7 +22,7 @@ namespace ProductApp.WebApi.Controllers
 		public async Task<IActionResult> Get()
 		{
 			var allList = await productRepository.GetAllAsync();
-			return allList;
+			return Ok(allList);
 		}
 	}
 }
