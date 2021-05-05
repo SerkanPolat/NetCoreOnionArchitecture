@@ -1,0 +1,12 @@
+C:\Users\serka\source\repos\ProductApp\src\Core\ProductApp.Application\bin\Debug\netcoreapp3.1\ProductApp.Application.deps.json
+C:\Users\serka\source\repos\ProductApp\src\Core\ProductApp.Application\bin\Debug\netcoreapp3.1\ProductApp.Application.dll
+C:\Users\serka\source\repos\ProductApp\src\Core\ProductApp.Application\bin\Debug\netcoreapp3.1\ProductApp.Application.pdb
+C:\Users\serka\source\repos\ProductApp\src\Core\ProductApp.Application\bin\Debug\netcoreapp3.1\ProductApp.Domain.dll
+C:\Users\serka\source\repos\ProductApp\src\Core\ProductApp.Application\bin\Debug\netcoreapp3.1\ProductApp.Domain.pdb
+C:\Users\serka\source\repos\ProductApp\src\Core\ProductApp.Application\obj\Debug\netcoreapp3.1\ProductApp.Application.csprojAssemblyReference.cache
+C:\Users\serka\source\repos\ProductApp\src\Core\ProductApp.Application\obj\Debug\netcoreapp3.1\ProductApp.Application.AssemblyInfoInputs.cache
+C:\Users\serka\source\repos\ProductApp\src\Core\ProductApp.Application\obj\Debug\netcoreapp3.1\ProductApp.Application.AssemblyInfo.cs
+C:\Users\serka\source\repos\ProductApp\src\Core\ProductApp.Application\obj\Debug\netcoreapp3.1\ProductApp.Application.csproj.CoreCompileInputs.cache
+C:\Users\serka\source\repos\ProductApp\src\Core\ProductApp.Application\obj\Debug\netcoreapp3.1\ProductApp.Application.csproj.CopyComplete
+C:\Users\serka\source\repos\ProductApp\src\Core\ProductApp.Application\obj\Debug\netcoreapp3.1\ProductApp.Application.dll
+C:\Users\serka\source\repos\ProductApp\src\Core\ProductApp.Application\obj\Debug\netcoreapp3.1\ProductApp.Application.pdb
